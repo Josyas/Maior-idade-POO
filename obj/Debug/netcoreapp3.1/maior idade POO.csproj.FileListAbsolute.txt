@@ -1,0 +1,13 @@
+D:\VisualStudioExercicios\maior idade POO\maior idade POO\bin\Debug\netcoreapp3.1\maior idade POO.exe
+D:\VisualStudioExercicios\maior idade POO\maior idade POO\bin\Debug\netcoreapp3.1\maior idade POO.deps.json
+D:\VisualStudioExercicios\maior idade POO\maior idade POO\bin\Debug\netcoreapp3.1\maior idade POO.runtimeconfig.json
+D:\VisualStudioExercicios\maior idade POO\maior idade POO\bin\Debug\netcoreapp3.1\maior idade POO.runtimeconfig.dev.json
+D:\VisualStudioExercicios\maior idade POO\maior idade POO\bin\Debug\netcoreapp3.1\maior idade POO.dll
+D:\VisualStudioExercicios\maior idade POO\maior idade POO\bin\Debug\netcoreapp3.1\maior idade POO.pdb
+D:\VisualStudioExercicios\maior idade POO\maior idade POO\obj\Debug\netcoreapp3.1\maior idade POO.csproj.AssemblyReference.cache
+D:\VisualStudioExercicios\maior idade POO\maior idade POO\obj\Debug\netcoreapp3.1\maior idade POO.AssemblyInfoInputs.cache
+D:\VisualStudioExercicios\maior idade POO\maior idade POO\obj\Debug\netcoreapp3.1\maior idade POO.AssemblyInfo.cs
+D:\VisualStudioExercicios\maior idade POO\maior idade POO\obj\Debug\netcoreapp3.1\maior idade POO.csproj.CoreCompileInputs.cache
+D:\VisualStudioExercicios\maior idade POO\maior idade POO\obj\Debug\netcoreapp3.1\maior idade POO.dll
+D:\VisualStudioExercicios\maior idade POO\maior idade POO\obj\Debug\netcoreapp3.1\maior idade POO.pdb
+D:\VisualStudioExercicios\maior idade POO\maior idade POO\obj\Debug\netcoreapp3.1\maior idade POO.genruntimeconfig.cache
